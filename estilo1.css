@@ -1,0 +1,182 @@
+	#tituloPrincipal{
+		background-color: #08FF00;
+	}
+
+	#barralateral{
+		background-color: #08FF00;
+		height:auto ;
+		width: 170px;
+		position:fixed;
+	}
+
+	#barralateral2{
+		background-color: #08FF00;
+		height:1794px ;
+		width: 170px;
+		float: left;
+	}
+
+	#paginaPrincipal{
+		background-color: #08FF00;
+		font-style:normal;
+		font-size: 20px;
+		margin-left: 180px;  
+		padding-top: 10px; 
+		padding-left: 15px;  
+		padding-bottom: 15px;  
+		margin-bottom: 10px; 
+	}
+
+	#piePagina{
+	background-color: #08FF00;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: center; 
+	padding: 20px;  
+	border-top: 5px solid #0A8C00; 
+}  
+
+	#pc{
+		background: url(1.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+	}
+
+	#impresora{
+		background: url(2.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+	}
+
+	#mouse{
+		background: url(3.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+
+	}
+
+	#teclado{
+		background: url(4.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+
+	}
+
+	#monitor{
+		background: url(5.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+
+	}
+
+	#laptop{
+		background: url(6.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+	}
+
+	#memoriaU{
+		background: url(7.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+
+	}
+
+	#memoriaR{
+		background: url(8.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+
+	}
+
+	#bocina{
+		background: url(9.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+
+	}
+
+	#audifonos{
+		background: url(10.jpg);
+		background-image: no-repeat;
+		background-image: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+
+	  	width:180px;
+	  	height:150px;
+
+	}
+
+	body{
+		background-color: #292FFF;
+	}
+
+	th, td{
+		border: solid 3px; 
+	}
